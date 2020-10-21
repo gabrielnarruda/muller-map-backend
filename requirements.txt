@@ -1,0 +1,13 @@
+
+
+flask
+# API requirements
+werkzeug==0.16.0
+connexion==1.5.3
+setuptools >= 21.0.0
+
+# DB requirements
+peewee==3.13.3
+
+# webhook signal
+blinker==1.4
