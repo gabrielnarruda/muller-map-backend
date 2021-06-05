@@ -2,3 +2,4 @@
 swagger_server/models/__pycache__/usuarios_model.cpython-37.pyc
 swagger_server/models/__pycache__/
 swagger_server/views/__pycache__/
+venv/
